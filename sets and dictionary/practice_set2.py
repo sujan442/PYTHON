@@ -1,0 +1,13 @@
+s=set()
+a=input("Enter first number:")
+s.add(a)
+b=input("Enter second number:")
+s.add(b)
+c=input("Enter third number:")
+s.add(c)
+d=input("Enter fourth number:")
+s.add(d)
+e=input("Enter fifthnumber:")
+s.add(e)
+
+print(s)
